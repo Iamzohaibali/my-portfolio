@@ -34,7 +34,7 @@ const Hero = () => {
               <div className="relative">
                 <div className="w-32 h-32 sm:w-40 sm:h-40 lg:w-48 lg:h-48 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
                   <img 
-                    src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400" 
+                    src="/images/profile.jpg" 
                     alt="Alex Johnson - Full Stack Developer"
                     className="w-full h-full object-cover"
                   />
